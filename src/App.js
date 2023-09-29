@@ -1,6 +1,6 @@
 import React from 'react';
 import Topo from './componentes/Topo';
-import Conteudo from './componentes/Conteudo';
+import Conteudo from './componentes/Conteudo/conteudo';
 import './App.css';
 
 function App() {
