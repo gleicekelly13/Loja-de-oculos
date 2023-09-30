@@ -1,7 +1,7 @@
 export default function Topo () {
     return (
         <header>
-            <div className="limita-secao">
+            <div className="limita-secao itens-topo">
                 <img src="./assets/logo.png" alt="logo"/>
                 <nav>
                     <a href="#produtos">PRODUTOS</a>
