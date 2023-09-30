@@ -1,6 +1,7 @@
 import React from 'react';
 import Topo from './componentes/Topo';
 import Conteudo from './componentes/Conteudo/conteudo';
+import Rodape from './componentes/Rodape';
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Topo/>
       <Conteudo/>
+      <Rodape/>
     </div>
   );
 }

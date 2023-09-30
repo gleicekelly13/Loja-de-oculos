@@ -1,6 +1,6 @@
 export default function SecaoProdutos () {
     return (
-        <section>
+        <section id="produtos">
             <div>
                 <h2>Nossos produtos</h2>
                 <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
