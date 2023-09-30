@@ -7,3 +7,15 @@ body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+/* Estilos globais */
+.limita-secao {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 36px;
+  margin: 0;
+}
