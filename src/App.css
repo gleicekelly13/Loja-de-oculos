@@ -127,10 +127,59 @@ figure {
   padding: 0 20px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center; /* Aproxima os marcadores(pontinhos pretos) dos textos */
 }
 
 .secao-produtos li {
   text-align: left;
   margin: 5px;
+}
+
+.secao-sobre {
+  background-color: #f8f7ff;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.paragrafo1 {
+  line-height: 32px;
+}
+
+.box-cards {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box-cards img, 
+.box-cards div {
+  width: 50%;
+  max-height: 300px;
+  border: 1px solid #a2adad;
+}
+
+
+.box-cards img {
+  object-fit: cover; /* As imagens mantêm a sua proporção e se encaixam no seu elemento pai */
+}
+
+.box-cards div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #fff;
+  padding: 20px 25px;
+}
+
+.box-cards div h3 {
+  font-family: 'Anybody', cursive;
+  font-size: 36px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 42px;
+}
+
+.box-cards p {
+  font-size: 22px;
+  color: #4a4a4a;
 }
