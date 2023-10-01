@@ -122,3 +122,15 @@ figure {
   font-weight: bold;
   font-size: 22px;
 }
+
+.secao-produtos ul {
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.secao-produtos li {
+  text-align: left;
+  margin: 5px;
+}
