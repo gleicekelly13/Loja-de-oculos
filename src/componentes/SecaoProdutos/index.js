@@ -7,22 +7,22 @@ export default function SecaoProdutos () {
                 <p>Todos os nossos preços são acessíveis e contam com a melhor qualidade do mercado.</p>
 
                 <figure>
-                    <div>
+                    <div className="cards">
                         <h3>Óculos de grau</h3>
                         <img src="./assets/oculos01.png"/>
                         <p>R$ 500,00</p>
                     </div>
-                    <div>
+                    <div className="cards">
                         <h3>Óculos transition</h3>
                         <img src="./assets/oculos02.png"/>
                         <p>R$ 750,00</p>
                     </div>
-                    <div>
+                    <div className="cards">
                         <h3>Óculos de sol</h3>
                         <img src="./assets/oculos03.png"/>
                         <p>R$ 700,00</p>
                     </div>
-                    <div>
+                    <div className="cards">
                         <h3>Óculos infantil</h3>
                         <img src="./assets/oculos04.png"/>
                         <p>R$ 500,00</p>

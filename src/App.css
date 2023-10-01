@@ -93,3 +93,32 @@ figure {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+.cards {
+  background-color: #f6f6f6;
+  width: calc(50% - 15px);
+  padding: 20px 10px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; 
+}
+
+.cards h3 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.cards img {
+  width: 80%;
+  max-height: 150px;
+  margin: 30px 0; /* Afasta os elementos que estão em cima e embaixo dela em 30px  */
+  object-fit: contain; /* Mantém a sua proporção e se encaixa dentro do card */
+}
+
+.cards p {
+  margin: 0;
+  font-weight: bold;
+  font-size: 22px;
+}
