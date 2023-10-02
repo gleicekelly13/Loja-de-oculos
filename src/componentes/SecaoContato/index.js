@@ -1,12 +1,12 @@
 export default function SecaoContato () {
     return (
-        <section id="contato">
+        <section id="contato" className="secao-contato">
             <div className="limita-secao">
                 <h2>Fale conosco</h2>
                 <p>Não perca tempo, venha conhecer uma de nossas lojas ou entre em contato através de nossas redes sociais ou da central de atendimento.</p>
 
-                <div>
-                    <div>
+                <div className="container-cards">
+                    <div className="container-cards2">
                         <h3>Contato</h3>
                         <div>
                             <img src="./assets/local.png"/>
@@ -22,7 +22,7 @@ export default function SecaoContato () {
                         </div>
                     </div>
 
-                    <div>
+                    <div className="container-cards2">
                         <h3>Nossas Redes Sociais</h3>
                         <div>
                             <img src="./assets/fb.png"/>
