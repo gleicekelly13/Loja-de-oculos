@@ -41,3 +41,21 @@
         padding: 60px 20px;
     }
   }
+
+  @media screen and (max-width: 550px) {
+    .secao-contato {
+        padding: 0 10px;
+    }
+
+    .container-cards {
+        flex-direction: column;
+    }
+
+    .container-cards2 {
+        align-items: center;
+    }
+
+    .container-cards2 div {
+        width: 150px; /* Alinha os elementos dentro dele */
+    }
+  }

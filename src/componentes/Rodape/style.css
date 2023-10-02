@@ -9,3 +9,9 @@ footer {
     color: #adadad;
     text-align: center;
   }
+
+  @media screen and (max-width: 550px) {
+    footer p {
+        font-size: 14px;
+    }
+  }

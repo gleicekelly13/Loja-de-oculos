@@ -48,3 +48,13 @@
         font-size: 20px;
     }
   }
+
+  @media screen and (max-width: 550px) {
+    .image-fundo {
+        background-position: 89% center;
+    }
+
+    .itens-capa {
+        background-color: rgba(0,0, 0, 0.6);
+    }
+  }
