@@ -1,0 +1,39 @@
+/* Capa CSS */
+
+.image-fundo {
+    background: linear-gradient(47deg,#000113 0%,#04061d 80%, #04061d 100%);
+    background-image: url('/public/assets/capa.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+  }
+  
+  .itens-capa {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .itens-capa p, h1 {
+    max-width: 500px;
+    font-family: 'Anybody', cursive;
+  }
+  
+  .itens-capa p {
+    font-size: 36px;
+    color: rgb(196, 196, 196);
+  }
+  
+  .itens-capa h1 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 60px;
+    margin: 0;
+    letter-spacing: 5px;
+    line-height: 70px;
+  }
+  

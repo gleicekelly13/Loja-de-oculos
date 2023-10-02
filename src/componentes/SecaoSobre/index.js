@@ -1,3 +1,6 @@
+import React from "react";
+import './style.css';
+
 export default function SecaoSobre () {
     return (
         <section id="sobre" className="secao-sobre">

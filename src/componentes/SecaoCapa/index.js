@@ -1,3 +1,6 @@
+import React from 'react';
+import './style.css';
+
 export default function SecaoCapa () {
     return (
         <section className="image-fundo">

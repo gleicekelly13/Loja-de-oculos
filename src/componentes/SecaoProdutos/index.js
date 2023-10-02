@@ -1,3 +1,6 @@
+import React from 'react';
+import './style.css';
+
 export default function SecaoProdutos () {
     return (
         <section id="produtos" className="secao-produtos">

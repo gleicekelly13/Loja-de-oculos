@@ -1,3 +1,6 @@
+import React from "react";
+import './style.css';
+
 export default function SecaoContato () {
     return (
         <section id="contato" className="secao-contato">

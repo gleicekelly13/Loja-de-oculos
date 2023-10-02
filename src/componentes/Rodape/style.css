@@ -1,0 +1,11 @@
+/* Footer CSS */
+
+footer {
+    background-color: #030303;
+    padding: 20px;
+  }
+  
+  footer p {
+    color: #adadad;
+    text-align: center;
+  }
