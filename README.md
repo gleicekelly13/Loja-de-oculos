@@ -1,4 +1,7 @@
 <h1 align="center">Loja de óculos</h1>
+<br>
+
+## :desktop_computer: Desktop design
 
 # Getting Started with Create React App
 
