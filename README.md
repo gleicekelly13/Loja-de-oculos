@@ -6,6 +6,9 @@
 <div align = "center">
 <img src = "https://github.com/gleicekelly13/Agencia-de-viagens/assets/80974593/26bb4350-0412-44d7-90cf-b7e0b57635f9.png"  width = "500"/>
 </div>
+<br>
+
+## :iphone: Mobile design
 
 # Getting Started with Create React App
 
