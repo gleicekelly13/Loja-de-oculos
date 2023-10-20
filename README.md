@@ -23,7 +23,7 @@
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui:https://loja-de-oculos-blue.vercel.app/ </p>
+<p> Você pode acessar o projeto final clicando aqui: https://loja-de-oculos-blue.vercel.app/ </p>
 <br>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
