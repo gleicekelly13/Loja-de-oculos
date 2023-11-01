@@ -1,7 +1,6 @@
 <h1 align="center">Loja de óculos</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
 <p>Página web desenvolvida no curso de React da plataforma Devmedia. O objetivo do projeto, foi colocar em prática os sequintes conceitos: criação, importação e exportação de componentes; e organização do código, dividindo em partes menores e arquivos isolados.</p>
-<p>Foi aplicada responsividade na página, assim ela se adapta a diferentes tamanhos de tela.</p>
 <br>
 
 ## :desktop_computer: Desktop design
@@ -27,6 +26,8 @@
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>Página web desenvolvida em React. A página proporciona interação do usuário com a página, visto que ao clicar nos links do topo, ele é direcionado para as seções correspondentes.</p>
+<p>Foi aplicada responsividade na página, dessa forma, ela se adapta a diferentes tamanhos de tela.</p>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://loja-de-oculos-blue.vercel.app/ </p>
