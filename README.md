@@ -25,6 +25,7 @@
 <br>
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>Página web desenvolvida em React. A página proporciona interação do usuário com a página, visto que ao clicar nos links do topo, ele é direcionado para as seções correspondentes.</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://loja-de-oculos-blue.vercel.app/ </p>
