@@ -1,6 +1,7 @@
 <h1 align="center">Loja de óculos</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
 <p>Página web desenvolvida no curso de React da plataforma Devmedia. O objetivo do projeto, foi colocar em prática os sequintes conceitos: criação, importação e exportação de componentes; e organização do código, dividindo em partes menores e arquivos isolados.</p>
+<p>Foi aplicada responsividade na página, assim ela se adapta a diferentes tamanhos de tela.</p>
 <br>
 
 ## :desktop_computer: Desktop design
