@@ -29,6 +29,10 @@
 <p>Foi aplicada responsividade na página, dessa forma, ela se adapta a diferentes tamanhos de tela.</p>
 <br>
 
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul></ul>
+<br>
+
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://loja-de-oculos-blue.vercel.app/ </p>
 <br>
