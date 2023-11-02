@@ -34,6 +34,7 @@
   <li>Criação, importação e exportação de componentes;</li>
   <li>Organização do código, dividindo-o em partes menores;</li>
   <li>Criar interatividade dentro da página, por meio de links capazes de navegar para as seções da página;</li>
+  <li>Praticar a utilização do background-image e posicionamento das imagens;</li>
 </ul>
 <br>
 
