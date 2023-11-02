@@ -30,7 +30,10 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
-<ul></ul>
+<ul>
+  <li>Criação, importação e exportação de componentes;</li>
+  <li>Organização do código, dividindo-o em partes menores;</li>
+</ul>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
