@@ -11,8 +11,6 @@
 <br>
 
 ## :iphone: Mobile design
-
-
 <br>
 <div align="center">
 <img src="https://github.com/gleicekelly13/Loja-de-oculos/assets/80974593/fc1af34e-25a4-40c6-954c-bc4b8bb9cdbf.png"  width = "300"/>
