@@ -44,6 +44,7 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>JAVASCRIPT</li>
   <li>REACT</li>
 </ul>
 <br>
