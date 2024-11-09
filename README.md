@@ -30,7 +30,7 @@
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
   <li>Criação, importação e exportação de componentes;</li>
-  <li>Organização do código, dividindo-o em partes menores;</li>
+  <li>Organização do código, dividindo-o em partes menores e arquivos isolados;</li>
   <li>Criar interatividade dentro da página, por meio de links capazes de navegar para as seções da página;</li>
   <li>Praticar a utilização do background-image e posicionamento das imagens.</li>
 </ul>
