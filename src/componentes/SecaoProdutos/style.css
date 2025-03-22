@@ -78,6 +78,14 @@
         padding: 0 10px;
     }
 
+    .secao-produtos h2 {
+      font-size: 32px;
+    }
+
+    .secao-produtos p {
+      font-size: 18px;
+    }
+
     .cards {
         width: 100%;
     }
@@ -86,3 +94,5 @@
         align-items: flex-start;
     }
   }
+
+ 
