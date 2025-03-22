@@ -1,3 +1,60 @@
+<h1 align="center">Loja de óculos</h1>
+<h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Página web de uma loja de óculos desenvolvida no curso de React da plataforma Devmedia.</p>
+<br>
+
+## :desktop_computer: Desktop design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Agencia-de-viagens/assets/80974593/26bb4350-0412-44d7-90cf-b7e0b57635f9.png"  width = "500"/>
+</div>
+<br>
+
+## :iphone: Mobile design
+<br>
+<div align="center">
+<img src="https://github.com/gleicekelly13/Loja-de-oculos/assets/80974593/fc1af34e-25a4-40c6-954c-bc4b8bb9cdbf.png"  width = "300"/>
+</div>
+<br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
+
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>Página web desenvolvida em React. A página proporciona interação do usuário com a página, visto que ao clicar nos links do topo, ele é direcionado para as seções correspondentes.</p>
+<p>Foi aplicada responsividade na página, dessa forma, ela se adapta a diferentes tamanhos de tela.</p>
+<br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Criação, importação e exportação de componentes;</li>
+  <li>Organização do código, dividindo-o em partes menores e arquivos isolados;</li>
+  <li>Criar interatividade dentro da página, por meio de links capazes de navegar para as seções da página;</li>
+  <li>Praticar a utilização do background-image e posicionamento das imagens.</li>
+</ul>
+<br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://loja-de-oculos-blue.vercel.app/ </p>
+<br>
+
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+</ul>
+<br>
+
+# :sunglasses: Desenvolvedora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
