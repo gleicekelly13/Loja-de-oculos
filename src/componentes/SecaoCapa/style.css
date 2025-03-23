@@ -57,4 +57,12 @@
     .itens-capa {
         background-color: rgba(0,0, 0, 0.6);
     }
+
+    .itens-capa p {
+      font-size: 30px;
+    }
+
+    .itens-capa h1 {
+      font-size: 48px;
+    }
   }
