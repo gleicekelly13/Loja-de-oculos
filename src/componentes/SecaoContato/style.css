@@ -44,18 +44,26 @@
 
   @media screen and (max-width: 550px) {
     .secao-contato {
-        padding: 0 10px;
+      padding: 0 10px;
+    }
+
+    .secao-contato h2 {
+      font-size: 34px;
+    }
+
+    .paragrafo-principal {
+      font-size: 19px;
     }
 
     .container-cards {
-        flex-direction: column;
+      flex-direction: column;
     }
 
     .container-cards2 {
-        align-items: center;
+      align-items: center;
     }
 
     .container-cards2 div {
-        width: 150px; /* Alinha os elementos dentro dele */
+      width: 150px; /* Alinha os elementos dentro dele */
     }
   }
