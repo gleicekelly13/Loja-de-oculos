@@ -72,6 +72,14 @@
         padding: 0 10px;
     }
 
+    .secao-sobre h2 {
+      font-size: 32px;
+    }
+
+    .paragrafo1 {
+      font-size: 18px;
+    }
+
     .box-cards {
         display: flex;
         flex-direction: column;
